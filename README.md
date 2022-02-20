@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
- <a href="https.https://marcosgjunior.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 01 </a>
+ <a href="https://marcosgjunior.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 01 </a>
